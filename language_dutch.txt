@@ -11,7 +11,7 @@ LOGIN_ADULT  - Waarschuwing: Deze server bevat elementen die als aanstootgevend 
 LOGIN_BYE1   - U heeft ervoor gekozen de server te verlaten. Tot ziens!
 ERROR_NOTLOG - Fout: U bent nog niet ingelogd!
 ERROR_KICK   - Fout: U kunt deze functie momenteel niet gebruiken. Log eerst in.
-ECON_RELOAD  - [ATTENTIE] Het business script wordt vernieuwd. Business onderdelen zijn tijdelijk niet beschikbaar.
+ECON_RELOAD  - [ATTENTIE] Het business script wordt vernieuwd. Economische onderdelen zijn tijdelijk niet beschikbaar.
 TXT_Login0   - Welkom in Argonath RPG
 TXT_Login1   -  Een wereld op zichzelf.
 CMD_TIME     - De echte tijd is {time} (CET - Centraal Europese Tijd)
